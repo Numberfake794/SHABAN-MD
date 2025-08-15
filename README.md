@@ -13,10 +13,10 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SHABAN+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+SHABAN42;🚀+SHABAN-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SHABAN+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+SHANI-MD;🚀+SHANI-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM?mode=ac_t)
 </div>
 
 ---------
@@ -47,7 +47,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHANI-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
 
  -------------
   
